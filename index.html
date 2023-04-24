@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" type="image/png" href="https://apsystems.com/wp-content/uploads/fbrfg/favicon-32x32.png">
+    <title>APSystems DS3 recall check</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<form>
+  <h2>APSystems DS3 inveter recall check</h2>
+  <p style="margin-top:10px">With this simple tool you can check if your inverter is affected by the latest APSystems recall or not.</p> 
+  <input type="text" id="number">
+  <br><br>
+  <button type="button" onclick="checkNumber()">Check</button>
+</form>
+
+<div class="result-container">
+    <table id="history">
+        <tr>
+            <th>Serial number</th>
+            <th>Result</th>
+        </tr>
+    </table>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
