@@ -1,5 +1,5 @@
 # aps-ds3-recall-check
-This project is a static website to check the APS Systems DS3-L inverter against their recall.
+This project is a static website to check the [APsystems](https://apsystems.com/) DS3-L inverter against their recall.
 
 ***
 
