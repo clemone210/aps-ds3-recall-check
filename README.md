@@ -1,7 +1,7 @@
 # aps-ds3-recall-check
 This project is a static website to check the APS Systems DS3-L inverter against their recall.
 
-
+***
 
 # Disclaimer: Product Names and Images
 Please note that this project contains product names, logos, and images that are the property of their respective companies. These have been used in this project solely for demonstration and display purposes. I do not claim to have any rights over the company names, logos, or images.
